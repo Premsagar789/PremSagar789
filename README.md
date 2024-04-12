@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently persuing **Data science**
 
-- 📝 I regularly write articles on [https://medium.com/@steevkoppula/
+- 📝 I regularly write articles on https://medium.com/@steevkoppula/
 
 - 📫 How to reach me **premsagarkoppula09@gmail.com**
 
